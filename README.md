@@ -1,2 +1,4 @@
-# Programarea-in-Retea
-Cazac Daniela TI-152
+Programarea in retea 
+
+Instructions to run the project : 
+- download pycharm 
