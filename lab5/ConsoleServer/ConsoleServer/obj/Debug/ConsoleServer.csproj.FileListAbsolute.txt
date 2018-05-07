@@ -1,0 +1,15 @@
+D:\Marin\Dana\Gavrisco\ConsoleServer\ConsoleServer\bin\Debug\ConsoleServer.exe.config
+D:\Marin\Dana\Gavrisco\ConsoleServer\ConsoleServer\bin\Debug\ConsoleServer.exe
+D:\Marin\Dana\Gavrisco\ConsoleServer\ConsoleServer\bin\Debug\ConsoleServer.pdb
+D:\Marin\Dana\Gavrisco\ConsoleServer\ConsoleServer\obj\Debug\ConsoleServer.exe
+D:\Marin\Dana\Gavrisco\ConsoleServer\ConsoleServer\obj\Debug\ConsoleServer.pdb
+D:\Marin\Dana\Gavrisco\ConsoleServer\ConsoleServer\obj\Debug\ConsoleServer.csprojResolveAssemblyReference.cache
+C:\Users\Danielaa\Downloads\Gavrisco\Gavrisco\ConsoleServer\ConsoleServer\bin\Debug\ConsoleServer.exe.config
+C:\Users\Danielaa\Downloads\Gavrisco\Gavrisco\ConsoleServer\ConsoleServer\obj\Debug\ConsoleServer.exe
+C:\Users\Danielaa\Downloads\Gavrisco\Gavrisco\ConsoleServer\ConsoleServer\obj\Debug\ConsoleServer.pdb
+C:\Users\Danielaa\Downloads\Gavrisco\Gavrisco\ConsoleServer\ConsoleServer\bin\Debug\ConsoleServer.exe
+C:\Users\Danielaa\Downloads\Gavrisco\Gavrisco\ConsoleServer\ConsoleServer\bin\Debug\ConsoleServer.pdb
+C:\Users\Danielaa\Downloads\Gavrisco\Gavrisco\ConsoleServer\ConsoleServer\obj\Debug\ConsoleServer.csprojResolveAssemblyReference.cache
+C:\Users\Danielaa\Desktop\PR\lab5\ConsoleServer\ConsoleServer\bin\Debug\ConsoleServer.exe.config
+C:\Users\Danielaa\Desktop\PR\lab5\ConsoleServer\ConsoleServer\obj\Debug\ConsoleServer.exe
+C:\Users\Danielaa\Desktop\PR\lab5\ConsoleServer\ConsoleServer\obj\Debug\ConsoleServer.pdb

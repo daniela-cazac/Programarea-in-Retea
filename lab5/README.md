@@ -1,0 +1,2 @@
+Programarea in retea 
+Lucrarea de laborator Nr5 : Studierea protocolului TCP si crearea unei aplicatii Client-Server in care clientul trimite careva mesaje iar serverul trateaza si raspunde respectiv la comenzi.
